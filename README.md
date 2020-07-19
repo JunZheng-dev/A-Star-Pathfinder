@@ -1,4 +1,4 @@
-# A* Pathfinder Visualizer
+# A* Pathfinding Visualizer
 <h3>Introduction</h3>
 This program is a visualizer for the A* pathfinding algorithm. The GUI is produced using the <b>pygame</b> library.</br>
 The algorithm is similar to Dijkstra's algorithm but uses a heuristic, the distance between the nodes, to better explore.</br>
